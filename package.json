@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+<<<<<<< HEAD
     "cookie-parser": "^1.4.6",
     "ejs": "^3.1.10",
     "express": "^4.21.0",
@@ -16,5 +17,11 @@
     "nanoid": "^5.0.7",
     "nodemon": "^3.1.7",
     "uuid": "^10.0.0"
+=======
+    "express": "^4.21.0",
+    "mongoose": "^8.6.3",
+    "nanoid": "^5.0.7",
+    "nodemon": "^3.1.7"
+>>>>>>> f17c5f7a765c8ae5e4388b9087e6bc472cf00d7b
   }
 }
