@@ -15,6 +15,11 @@
 - **Frontend**: EJS (Embedded JavaScript)
 - **Other**: Mongoose (for MongoDB object modeling)
 
+## Added New Functionality
+- **Login** : only login users can see the generated code which they have made
+- **SignUp ** : Use this to add urself to databse
+  
+
 ## How It Works
 
 1. User submits a long URL.
